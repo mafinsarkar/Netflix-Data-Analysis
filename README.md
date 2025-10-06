@@ -16,19 +16,6 @@ Visualize trends using charts and graphs
 
 Derive actionable insights from the findings
 
-📂 Project Structure
-├── data/
-│   ├── raw/                # Original dataset
-│   ├── cleaned/            # Cleaned and processed data
-├── notebooks/
-│   ├── analysis.ipynb      # Jupyter notebook for EDA
-├── outputs/
-│   ├── visualizations/     # Charts and plots generated
-├── src/
-│   ├── data_cleaning.py    # Data preprocessing scripts
-│   ├── analysis.py         # Analysis and visualization scripts
-├── README.md               # Project documentation
-├── requirements.txt        # Dependencies
 
 🧰 Tools & Libraries Used
 
@@ -42,7 +29,6 @@ Matplotlib / Seaborn – Data visualization
 
 Jupyter Notebook – Interactive environment
 
-Scikit-learn (optional) – For statistical or ML-based analysis
 
 ⚙️ Setup Instructions
 
@@ -118,3 +104,4 @@ Sk Shafin Sarkar
 📧 Email: mafinsarkar2003@gmail.com
 
 💼 LinkedIn Profile
+www.linkedin.com/in/sk-shafin-sarkar
