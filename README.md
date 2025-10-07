@@ -32,16 +32,6 @@ Jupyter Notebook – Interactive environment
 
 ⚙️ Setup Instructions
 
-Clone this repository:
-
-git clone https://github.com/your-username/data-analysis-project.git
-cd data-analysis-project
-
-
-Create a virtual environment and install dependencies:
-
-pip install -r requirements.txt
-
 
 Open the Jupyter notebook:
 
@@ -74,29 +64,12 @@ Correlation heatmap
 
 Top categories by count or rating
 
-(Add image previews of charts if available)
 
-![Sample Visualization](outputs/visualizations/movies_per_year.png)
-
-🧩 Future Improvements
-
-Automate data cleaning pipeline
-
-Integrate with SQL database or API
-
-Add machine learning model for prediction
-
-Build dashboard using Power BI / Tableau / Streamlit
 
 🤝 Contributing
 
 Contributions are welcome!
 If you’d like to improve this project, fork the repo and create a pull request.
-
-🧾 License
-
-This project is licensed under the MIT License
-.
 
 👤 Author
 
